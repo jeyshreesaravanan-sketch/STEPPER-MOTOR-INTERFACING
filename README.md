@@ -73,7 +73,8 @@ DATA:    DB 09H, 05H, 06H, 0AH ; Array of data
 
 
 <img width="960" height="1280" alt="image" src="https://github.com/user-attachments/assets/a81fc272-1f43-463c-9a8a-6530f79dc429" />
-![Uploading image.png…]()
+<img width="960" height="1280" alt="image" src="https://github.com/user-attachments/assets/0b7a2d75-cb85-4608-8e11-d8593f790d81" />
+
 
 ## RESULT
 
