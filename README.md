@@ -71,10 +71,7 @@ DATA:    DB 09H, 05H, 06H, 0AH ; Array of data
 ```
 ## OUTPUT OF THE PROGRAM:
 
-
-<img width="960" height="1280" alt="image" src="https://github.com/user-attachments/assets/a81fc272-1f43-463c-9a8a-6530f79dc429" />
-<img width="960" height="1280" alt="image" src="https://github.com/user-attachments/assets/0b7a2d75-cb85-4608-8e11-d8593f790d81" />
-
+<img width="641" height="291" alt="WhatsApp Image 2026-11-03 at 1 36 52 PM" src="https://github.com/user-attachments/assets/398efece-99ed-4da9-a262-fc7c2cf0d6a3" />
 
 ## RESULT
 
